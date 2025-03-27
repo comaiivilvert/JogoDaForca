@@ -13,6 +13,10 @@
 
             Random random = new Random();
 
+            Console.WriteLine("----------------------------------------------");
+            Console.WriteLine("Jogo da Forca");
+            Console.WriteLine("----------------------------------------------");
+
             Console.WriteLine("Escolha um tipo de palvras para jogar!");
             Console.WriteLine("1 - Animais");
             Console.WriteLine("2 - Frutas");

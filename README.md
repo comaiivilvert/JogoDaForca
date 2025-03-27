@@ -1,5 +1,6 @@
 # JogoDaForca
 
+![](https://imgur.com/SrA1mr3.gif)
 
 
 ## Introdução
