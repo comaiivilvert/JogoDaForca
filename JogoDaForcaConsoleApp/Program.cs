@@ -136,7 +136,7 @@
                 else if (jogadorEnforcou)
                 {
                     Console.WriteLine("----------------------------------------------");
-                    Console.WriteLine("Que azar! Tente novamente!");
+                    Console.WriteLine("Que azar! Você PERDEU! Tente novamente!");
                     Console.WriteLine("----------------------------------------------");
                 }
             } while (jogadorEnforcou == false && jogadorAcertou == false);
